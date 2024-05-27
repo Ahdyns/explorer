@@ -1,10 +1,10 @@
 {
     "chain_name": "axelar",
     "api": [
-        "https://rest.axelar.lava.build/lava-referer-97409c72-1a82-4861-8651-119c15151cbe"
+        "https://rest.axelar.lava.build/lava-referer-476bffdb-c7d0-40a7-9cae-61b51b87944f/"
     ],
     "rpc": [
-        "https://tm.axelar.lava.build/lava-referer-97409c72-1a82-4861-8651-119c15151cbe"
+        "https://tm.axelar.lava.build/lava-referer-476bffdb-c7d0-40a7-9cae-61b51b87944f/"
     ],
     "snapshot_provider": "",
     "sdk_version": "0.45.6",
